@@ -1,4 +1,6 @@
-# I made this repo to store and share some of the technologies and tools I like
+# Some Tecnologies I Like
+
+I made this repo to store and share some of the technologies and tools I like. I'll upload new things here all the time. I can also create new categories and group the posts when the number of posts increased.
 
 ## ngrok
 
