@@ -25,3 +25,5 @@ Docker is a tool that allows developers to create, deploy, and run their applica
 Further information about the can be found [here](https://www.docker.com/why-docker)
 
 A blog post of mine is available [at](https://blog.akbuluteren.com/blog/docker-quick-start) as a beginner's tutorial.
+
+A blog post of mine about containers in general available [at](https://blog.akbuluteren.com/blog/what-is-a-container)
