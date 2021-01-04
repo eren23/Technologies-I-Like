@@ -27,3 +27,13 @@ Further information about the can be found [here](https://www.docker.com/why-doc
 A blog post of mine is available [at](https://blog.akbuluteren.com/blog/docker-quick-start) as a beginner's tutorial.
 
 A blog post of mine about containers in general available [at](https://blog.akbuluteren.com/blog/what-is-a-container)
+
+## Replit
+
+"A "Repl" at Repl.it is an interactive programming environment. You can create a workspace in most popular programming languages, where you are given a container on a virtual machine where your code can run."
+
+In my opinion Replit is an awesome tool for trying out stuff online with many programming languages online without having to install anything on your local.
+
+A blog post of mine that is using Replit is available [at](https://blog.akbuluteren.com/blog/ai-powered-discord-bot-tutorial)
+
+A detailed Replit tutorial is to be published soon.
