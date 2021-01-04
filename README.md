@@ -37,3 +37,12 @@ In my opinion Replit is an awesome tool for trying out stuff online with many pr
 A blog post of mine that is using Replit is available [at](https://blog.akbuluteren.com/blog/ai-powered-discord-bot-tutorial)
 
 A detailed Replit tutorial is to be published soon.
+
+## Colab
+
+The part below is from Colab's official docs. Colab is really cool for many purposes, I'll, from time to time, publish posts with by using colab.
+
+"What is Colaboratory?
+Colaboratory, or “Colab” for short, is a product from Google Research. Colab allows anybody to write and execute arbitrary python code through the browser, and is especially well suited to machine learning, data analysis and education. More technically, Colab is a hosted Jupyter notebook service that requires no setup to use, while providing free access to computing resources including GPUs."
+
+A blog post of mine that is using Colab for making GPT-2 is available [at](https://blog.akbuluteren.com/blog/gpt2-colab-tutorial)
